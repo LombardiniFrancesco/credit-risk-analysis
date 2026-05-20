@@ -115,4 +115,6 @@ Possible future developments include:
 
 ## Author
 
-Credit Risk and Business Intelligence Project developed using Python and Power BI.
+Francesco Lombardini
+
+Statistics Graduate | Data Analysis | Machine Learning
